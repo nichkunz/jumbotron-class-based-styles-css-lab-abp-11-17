@@ -57,6 +57,10 @@ h3#header {
   text-align: center;
 }
 
-.jumbotron h1{
+.jumbotron h1 {
   font-size: 60px;
+}
+
+.jumbotron p {
+  
 }
